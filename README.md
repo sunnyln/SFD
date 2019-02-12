@@ -5,7 +5,7 @@ By [Shifeng Zhang](http://www.cbsr.ia.ac.cn/users/sfzhang/)
 ### Introduction
 
 S³FD is a real-time face detector, which performs superiorly on various scales of faces with a single deep neural network, especially for small faces. For more details, please refer to our [arXiv paper](https://arxiv.org/abs/1708.05237).
-
+方法可以看作是对SSD的改进与完善，速度较慢(36FPS with Titan X & VGA)。
 
 ### Contents
 1. [Preparation](#preparation)
